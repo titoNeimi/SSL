@@ -11,4 +11,4 @@ Programa simple hecho en el lenguaje C que imprime `Hello, World!` en la consola
 ## 🔧 Compilación
 
 ```bash
-gcc -std=c2x helloWorld.c -o helloorld
+gcc -std=c2x helloWorld.c -o helloWorld
